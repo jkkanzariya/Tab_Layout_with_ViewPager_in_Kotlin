@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tab Layout with ViewPager in Kotlin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="status_fragment">Hello from status fragment</string>
+    <string name="chat_fragment">Hello from chat fragment</string>
+    <string name="call_fragment">Hello from call fragment</string>
+</resources>
